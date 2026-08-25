@@ -19,3 +19,9 @@ ScaleBits connects employee learning with real operational improvement:
 ### 🤖 GuidedRobotics
 
 **A decision-support system for industrial robotization.**
+
+## Focus
+
+**Industrial AI · Manufacturing Software · Robotics · Data-Driven Management**
+
+🌐 [d4kaizen.com](https://d4kaizen.com)
