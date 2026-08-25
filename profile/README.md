@@ -18,7 +18,7 @@ ScaleBits connects employee learning with real operational improvement:
 
 ### 🤖 GuidedRobotics
 
-**A decision-support system for industrial robotization.**
+**GuidedRobotics helps manufacturers identify where robotics can create the highest operational and economic value.**
 
 ## Focus
 
